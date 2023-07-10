@@ -1,2 +1,2 @@
 #!/bin/bash
-answer=tail/etc/passwd
+answer=tail /etc/passwd
