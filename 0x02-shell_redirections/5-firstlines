@@ -1,2 +1,2 @@
 #!/bin/bash
-Answer=head/etc/passwd
+Answer= head /etc/passwd
