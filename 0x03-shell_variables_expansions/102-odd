@@ -1,2 +1,2 @@
 #!/bin/bash
-Answer= perl -Ine 'print if $. % 2 ==1'
+Answer= perl -lne 'print if $. % 2 ==1'
